@@ -1,0 +1,233 @@
+
+
+.header {
+   padding: 40px 20px 20px 20px;
+    margin-left: 300px;
+}
+.header h2 {
+    font-size: 22px;
+    font-weight: 400;
+}
+.search-bar {
+    margin-left: 200px;
+}
+.search-box {
+    width: 290px;
+    height: 37px;
+    border-radius: 25px;
+}
+.search-box button {
+    border: none;
+}
+.right-nav {
+
+}
+.right-nav i {
+   font-size: 33px;
+    padding-left: 30px;
+    margin-top: 8px;
+    color: #7B7A7A;
+}
+.right-nav .profile {
+    padding-left: 30px;
+    width: 72px;
+    height: 42px;
+    margin-top: 3px;
+}
+
+.side-bar {
+    text-align: left;
+    justify-content: left;
+    margin-bottom: 500px;
+    z-index: 5;
+    position: absolute;
+    width: 250px;
+    top: 0px;
+    height: 700px;
+    background: #FFFFFF;
+    box-shadow: 10px 0px 40px rgba(215, 215, 215, 0.25);
+    padding-top: 30px;
+}
+.side-bar h3 {
+    margin-left: 90px;
+}
+.side-bar ul {
+    list-style-type: none;
+    margin-top: 55px;
+}
+.side-bar li {
+    padding-top: 15px;
+}
+.side-bar span {
+    font-size: 18px;
+    color: #606060;
+}
+.side-bar i {
+    font-size: 25px;
+    margin-right: 15px;
+    margin-top: 5px;
+    color: #606060;
+}
+#abs1 {
+    z-index: 5;
+    position: absolute;
+    width: 150px;
+    height: 700px;
+    top: 10px;
+    left: 10px;
+    border: 1px dashed #900;
+    background-color: #fdd;
+    text-align: left;
+    justify-content: left;
+}
+
+.country {
+    background: #F3F3F3;
+    border-radius: 30px;
+    padding: 5px 30px 5px 20px;
+    margin-left: 45px;
+}
+
+/*...........Content........*/
+.content {
+    margin-top: 35px;
+}
+.content .overview {
+    margin-right: 47%;
+    font-size: 30px;
+    font-weight: 400;
+    color: #5A5A5A;
+}
+.content1 {
+    margin-left: 12%;
+}
+.content1 span {
+    font-weight: 400;
+    font-size: 20px;
+    color: #8E8E8E;
+
+}
+
+.content1 .bx-money{
+    font-size: 20px;
+    margin-left: 40px;
+    margin-right: 5px;
+    background: #F2FFF7;
+    padding:5px;
+    border-radius: 50%;
+    color: #219653;
+
+}
+.content1 .bx-wallet{
+    font-size: 20px;
+    margin-left: 40px;
+    margin-right: 5px;
+    background: #F2F6FF;
+    padding:5px;
+    border-radius: 50%;
+    color: #2F80ED;
+}
+.content1 .bx-building-house{
+    font-size: 20px;
+    margin-left: 40px;
+    margin-right: 5px;
+    background: #FFEFE0;
+    padding:5px;
+    border-radius: 50%;
+    color:#F2994A;
+}
+.content1 .bxs-car{
+    font-size: 20px;
+    margin-left: 40px;
+    margin-right: 5px;
+    background: #E3C5FF;
+    padding:5px;
+    border-radius: 50%;
+    color:#000000;
+}
+.content1 .bx-user{
+    font-size: 20px;
+    margin-left: 40px;
+    margin-right: 5px;
+    background: #BCFFD9;
+    padding:5px;
+    border-radius: 50%;
+    color: #000000;
+}
+.content1 p {
+    font-size: 32px;
+    margin-left: 40px;
+    text-align: left;
+}
+.box {
+    margin-left: 13%;
+}
+.box-description {
+    text-align: left;
+    justify-content: space-evenly;
+    padding-top: 30px;
+}
+.box-description p {
+    font-size: 32px;
+    font-weight: 400;
+    color: #7B7A7A;
+}
+.box-balance {
+    border: 1px solid #EBEBEB;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 6px rgba(243, 243, 243, 0.25);
+    width: 350px;
+    height: 145px;
+    margin-left: 30px;
+}
+.right-content {
+    width: 360px;
+    height: 330px;
+    border: 1px solid #EBEBEB;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 6px rgba(243, 243, 243, 0.25);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.right-content .goals {
+    font-size: 20px;
+    font-weight: 400;
+    color: #4F4E4E;
+}
+.right-content a {
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 128px;
+}
+.rt1 {
+    text-align: left;
+}
+.rt1 .pdt {
+    font-size: 14px;
+    font-weight: 500;
+    color: #323131;
+    margin-bottom: 40px;
+}
+.rt1 .pdt .percent {
+    font-size: 12px;
+    margin-left: 168px;
+    font-weight: 500;
+}
+
+.progress {
+    height: 8px;
+    width: 70%;
+    margin-left: 70px;
+    margin-top: 8px;
+}
+.progress-bar {
+    width: 25%;
+}
+.bar {
+    margin-bottom: 12px;
+}
+.bar .price-range {
+    margin-left: 70px;
+    font-size: 12px;
+    font-weight: 400;
+}
